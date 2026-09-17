@@ -19,6 +19,13 @@ Equipment Managers
   -equipment repairs
 
 <ins> Department Admin </ins>
+  -manage bookings
+  -mark equipment as
+
+<ins> Equipment managers </ins>
+  -manage equipment replacements if needed
+  -
+  
 
 **---Unknowns---**
 
