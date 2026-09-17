@@ -1,18 +1,19 @@
-----Stakeholders---
+**----Stakeholders---**
 Students
 Lecturers
-Equipments Technicians
+Equipment Technicians
 Department Admins
 Equipment Managers
 
----Stake Holder needs and concerns---
+**---Stake Holder needs and concerns---**
+<ins> Students </ins>
 
----Unknowns---
+**---Unknowns---**
 
----Information Sources---
+**---Information Sources---**
 
----Elicitation Questions---
+**---Elicitation Questions---**
 
----Interview Notes---
+**---Interview Notes---**
 
----Candidate Requiremnts---
+**---Candidate Requirements---**
