@@ -30,6 +30,14 @@ The sytem should help the college:
 -Allow students to see what equipment is already in use
 
 ## 6. Scope
+In Scope:
+-Equipment tracking
+-booking
+-ailability checking
+-returns records
+
+Out of Scope:
+-penalties for late/ no returns
 -
 ## 7. Candidate Requirements
 ## 8. Requirement Surgery
