@@ -54,6 +54,8 @@ Equipment Managers
 -How are equipment booking handled currenlty?
 -What happens if an item is not returned?
 -What happens if an item is returned broken?
+-What details should be recorded while booking equipment?
+-Who is approving bookings currently and what happens if they are not on site?
 
 **---Interview Notes---**
 
