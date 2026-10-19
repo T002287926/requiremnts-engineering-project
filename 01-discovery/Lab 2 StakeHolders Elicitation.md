@@ -51,6 +51,9 @@ Equipment Managers
 **---Information Sources---**
 
 **---Elicitation Questions---**
+-How are equipment booking handled currenlty?
+-What happens if an item is not returned?
+-What happens if an item is returned broken?
 
 **---Interview Notes---**
 
