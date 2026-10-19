@@ -11,20 +11,36 @@ Equipment Managers
   -Be able to see what equipment is currently available
   -Know maximum time equipment can be borrowed for
 
+  Concern:
+  not being able to book required gear when needed
+
 <ins> Lecturers </ins>
   -Have specific equipment available for teaching (e.g projectors)
+
+  Concern:
+  Gear not available at required time
+
 
 <ins> Equipment Technicians </ins>
   -Managing equipment bookings
   -equipment repairs
 
+  Concern:
+  Equipment not returned or equipment late
+
 <ins> Department Admin </ins>
   -manage bookings
-  -mark equipment as
+  -mark equipment as available/ unavailable
 
-<ins> Equipment managers </ins>
+  Concern:
+  Poor record keeping
+
+<ins> Equipment managers</ins>
   -manage equipment replacements if needed
-  -
+  - Replace equipment if needed
+
+    Concern:
+    Unreturned equipment
   
 
 **---Unknowns---**
