@@ -28,6 +28,9 @@ Equipment Managers
   
 
 **---Unknowns---**
+-what happens in the event of a late return?
+-what is the maximum time an iteem can be borrowed for
+-who can book "specialised equipment"?
 
 **---Information Sources---**
 
